@@ -1,0 +1,3 @@
+exercises:
+    '1_Author page': { max_points: 0, disabled: true, translations: { en: '1_Author page' }, grading: [{ points: 1, criterion: { en: 'Inserting the li element at the appropriate place' } }, { points: 1, criterion: { en: 'Inserting element a with href="author.html" attribute in the appropriate place' } }] }
+    '2_Book chapters': { max_points: 0, disabled: true, translations: { en: '2_Book chapters' }, grading: [{ points: 1, criterion: { en: 'Create ul > li > a structure' } }, { points: 1, criterion: { en: 'Setting the href attribute of each link so that it directs to the appropriate section on the page' } }] }

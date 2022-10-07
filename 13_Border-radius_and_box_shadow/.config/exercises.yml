@@ -1,0 +1,2 @@
+exercises:
+    1_Exercises: { max_points: 0, disabled: true, translations: { en: 1_Exercises }, grading: [{ points: 0.75, criterion: { en: 'Cards with users: Adding the correct shadow' } }, { points: 0.75, criterion: { en: 'Cards with users: Rounding the corners' } }, { points: 1, criterion: { en: 'Avatar: Rounded avatars' } }, { points: 1, criterion: { en: 'Links: Styling according to specifications' } }] }

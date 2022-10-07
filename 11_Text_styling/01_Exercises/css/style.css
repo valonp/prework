@@ -1,0 +1,24 @@
+.container {
+    font-size:sans-serif;
+    font-size:20px;
+    line-height: 2em;
+    color: #555;
+
+}
+h1 , h2 {
+    font-family: serif;
+    text-transform: uppercase;
+   
+    color: brown;
+    font-weight:normal;
+    letter-spacing: 2.5em;
+
+
+}
+
+.cite {
+    background-color: #eee;
+    color: #777;
+    font-family: cursive;
+
+}

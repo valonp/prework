@@ -1,0 +1,2 @@
+exercises:
+    1_Exercises: { max_points: 0, disabled: true, translations: { en: 1_Exercises }, grading: [{ points: 0.5, criterion: { en: 'Name field  according to the specification' } }, { points: 0.5, criterion: { en: 'Email field according to the specification' } }, { points: 0.5, criterion: { en: 'Message field conforms to the specification' } }, { points: 0.5, criterion: { en: 'Button element compliant with the specification' } }] }

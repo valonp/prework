@@ -1,0 +1,2 @@
+exercises:
+    1_Exercises: { max_points: 0, disabled: true, translations: { en: 1_Exercises }, grading: [{ points: 1, criterion: { en: 'Deleting default borders' } }, { points: 0.5, criterion: { en: 'Adding styling to th elements' } }, { points: 0.5, criterion: { en: 'Adding styling to td elements' } }] }

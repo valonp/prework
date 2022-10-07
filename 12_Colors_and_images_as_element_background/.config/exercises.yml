@@ -1,0 +1,3 @@
+exercises:
+    1_Gradient: { max_points: 0, disabled: true, translations: { en: 1_Gradient }, grading: [{ points: 0.5, criterion: { en: 'Adjusting width and height' } }, { points: 1.5, criterion: { en: 'Adding your own gradient' } }] }
+    2_Cat: { max_points: 0, disabled: true, translations: { en: 2_Cat }, grading: [{ points: 0.5, criterion: { en: 'Setting the width and height' } }, { points: 1, criterion: { en: 'Adding image as background' } }, { points: 1, criterion: { en: 'Centering vertically and horizontally' } }, { points: 1, criterion: { en: 'Covering the entire element' } }] }

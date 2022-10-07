@@ -1,0 +1,2 @@
+exercises:
+    1_Exercises: { max_points: 0, disabled: true, translations: { en: 1_Exercises }, grading: [{ points: 1, criterion: { en: 'Appending CSS styles to the HTML document as appropriate and in the head of the page' } }, { points: 1, criterion: { en: 'Change body background color to darkgoldenrod' } }] }

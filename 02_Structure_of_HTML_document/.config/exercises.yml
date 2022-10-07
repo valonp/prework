@@ -1,0 +1,3 @@
+exercises:
+    '1_Character encoding': { max_points: 0, disabled: true, translations: { en: '1_Character encoding' }, grading: [{ points: 0.5, criterion: { en: 'Placing the meta tag in the head of the page' } }, { points: 0.5, criterion: { en: 'Setting charset="utf-8" attribute' } }] }
+    '2_Page title': { max_points: 0, disabled: true, translations: { en: '2_Page title' }, grading: [{ points: 0.5, criterion: { en: 'Inserting the title tag into the head of the page' } }, { points: 0.5, criterion: { en: 'Filling the tag with sample text' } }] }

@@ -1,0 +1,2 @@
+exercises:
+    1_Exercises: { max_points: 0, disabled: true, translations: { en: 1_Exercises }, grading: [{ points: 1, criterion: { en: 'Clearing the default styles for the list' } }, { points: 0.5, criterion: { en: 'Positioning elements next to each other using flex' } }, { points: 1, criterion: { en: 'Change to numeric pointers without changing the HTML' } }] }

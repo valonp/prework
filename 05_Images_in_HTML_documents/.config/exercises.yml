@@ -1,0 +1,2 @@
+exercises:
+    1_Images: { max_points: 0, disabled: true, translations: { en: 1_Images }, grading: [{ points: 1, criterion: { en: 'Inserting 4 images per page (img src)' } }, { points: 1, criterion: { en: 'Adding alt attribute to each of them' } }] }

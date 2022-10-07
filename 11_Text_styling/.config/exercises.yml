@@ -1,0 +1,2 @@
+exercises:
+    1_Exercises: { max_points: 0, disabled: true, translations: { en: 1_Exercises }, grading: [{ points: 1.5, criterion: { en: 'Container: Apply appropriate styles to the .container element' } }, { points: 1.5, criterion: { en: 'Headers: Applying appropriate styles to h1, h2 elements' } }, { points: 1.5, criterion: { en: 'Gallery: Applying appropriate styles to cite elements' } }] }

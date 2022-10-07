@@ -1,0 +1,5 @@
+exercises:
+    1_Headings: { max_points: 0, disabled: true, translations: { en: 1_Headings }, grading: [{ points: 0.8, criterion: { en: 'Creating 3 headers: h1, h2, h3' } }, { points: 0.2, criterion: { en: 'Filling them with sample text' } }] }
+    2_Paragraphs: { max_points: 0, disabled: true, translations: { en: 2_Paragraphs }, grading: [{ points: 0.8, criterion: { en: 'Create 3 paragraphs' } }, { points: 0.2, criterion: { en: 'Filling them with sample text' } }] }
+    '3_ul lists': { max_points: 0, disabled: true, translations: { en: '3_ul lists' }, grading: [{ points: 0.8, criterion: { en: 'Create ul list with three li' } }, { points: 0.2, criterion: { en: 'Filling them with sample text' } }] }
+    '4_ol lists': { max_points: 0, disabled: true, translations: { en: '4_ol lists' }, grading: [{ points: 0.8, criterion: { en: 'Create ol list with three li' } }, { points: 0.2, criterion: { en: 'Filling them with sample text' } }] }

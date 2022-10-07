@@ -1,0 +1,2 @@
+exercises:
+    1_Comments: { max_points: 0, disabled: true, translations: { en: 1_Comments }, grading: [{ points: 0.5, criterion: { en: 'Using the correct comment tags in HTML' } }, { points: 0.5, criterion: { en: 'Commenting appropriate lines' } }] }
