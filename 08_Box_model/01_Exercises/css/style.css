@@ -32,13 +32,22 @@ h1, h2, h3 {
     flex-grow: 1;    
     background: #FFF;
     margin:10px auto;
+    max-width: 80%;
+    padding: 50px;
+    box-sizing: border-box;
+   
 }
 
 .btn {    
-    text-decoration: none;
+    text-decoration:none;
     background: #FFAA2F;
     color:#fff;
-    border-radius: 40px;
+    border-radius: 40x;
+    margin-bottom: 20px;
+    display:inline-block;
+    padding: 20px 40px;
+     
+    
 }
 
 .gallery-title {
@@ -54,4 +63,5 @@ h1, h2, h3 {
 .gallery-content {
     display: flex;
     flex-direction: row;
+    overflow: auto;
 }

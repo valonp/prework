@@ -9,12 +9,20 @@ body {
     box-shadow: 0 1px 5px rgba(0,0,0,0.1);
     margin-bottom: 20px;
     background: linear-gradient(to right, #FF8D80, #FF6352);
+    padding: 10px;
 }
-.menu {}
+.menu {
+   align-items: stretch;
+    
+}
+.logo{
+    align-items: center;
+}
 .menu-list {
     list-style: none;
     padding:0;
     margin:0;
+    display: flex;
 }
 .menu-list a {
     padding:20px 30px;
@@ -41,6 +49,7 @@ body {
     color: #5B6A87;
     padding: 20px;
     box-shadow: 0 2px 10px rgba(0,0,0,.1);
+    display: flex;
 }
 .article-photo {}
 .article-photo img {
